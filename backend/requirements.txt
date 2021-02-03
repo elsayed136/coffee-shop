@@ -1,0 +1,9 @@
+# /requirements.txt
+
+flask
+Flask-SQLAlchemy
+flask-cors
+python-dotenv
+python-jose
+six
+sqlalchemy
